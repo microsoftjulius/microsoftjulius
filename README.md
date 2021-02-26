@@ -7,7 +7,7 @@
    <img src="https://github-profile-trophy.vercel.app/?username=microsoftjulius&theme=flat&no-frame=true&margin-w=30" />
 </div>
 
-####  STACK
+####  STACKs
 
  JS / React JS/ React Native / HTML / CSS / REST API / PHP/ LARAVEL
 
