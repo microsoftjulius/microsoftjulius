@@ -9,5 +9,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=microsoftjulius)](https://github.com/microsoftjulius/github-readme-stats)
 ####  STACKs
 
- JS / React JS/ React Native / HTML / CSS / REST API / PHP/ LARAVEL
+ JS / React JS/ Vue JS/ React Native / HTML / CSS / REST API / PHP/ LARAVEL
 
