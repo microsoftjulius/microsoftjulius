@@ -10,4 +10,10 @@
 ####  STACKs
 
  JS / React JS/ Vue JS/ React Native / HTML / CSS / REST API / PHP/ LARAVEL
+ 
+ ###  Tech Stack
+ BackEnd (Server side)
+  
+ ### Stack Model
+ LAMP
 
