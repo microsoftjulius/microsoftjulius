@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=microsoftjulius)](https://github.com/microsoftjulius/github-readme-stats)
 ####  STACKs
 
- JS / React JS/ HTML / CSS / REST API / PHP/ LARAVEL / Livewire / Flutter
+ JS / REACT / REACTNATIVE / HTML / CSS / REST API / PYTHON/ DJANGO/ PHP/ LARAVEL / LIVEWIRE / FLUTTER
  
  ###  Tech Stack
  BackEnd (Server side)
