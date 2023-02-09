@@ -10,7 +10,7 @@
  JS / REACT / REACTNATIVE / HTML / CSS / REST API / PYTHON/ DJANGO/ PHP/ LARAVEL / LIVEWIRE / FLUTTER
  
  ###  Tech Stack
- FullStack (Server side)
+ FullStack (FrontEnd and BackEnd)
   
  ### Stack Model
  LAMP
