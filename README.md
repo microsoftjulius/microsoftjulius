@@ -5,8 +5,6 @@
  <hr />
 </div>
 
-![Microsoft Julius's GitHub stats](https://github-readme-stats.vercel.app/api?username=microsoftjulius&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=microsoftjulius)](https://github.com/microsoftjulius/github-readme-stats)
 ####  STACKs
 
  JS / REACT / REACTNATIVE / HTML / CSS / REST API / PYTHON/ DJANGO/ PHP/ LARAVEL / LIVEWIRE / FLUTTER
